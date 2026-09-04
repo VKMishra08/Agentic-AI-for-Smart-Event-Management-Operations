@@ -169,8 +169,6 @@ Milestone 3 — Intelligent Event Operations
 ---
 
 📂 Project Structure
-
-
 Agentic-AI-for-Smart-Event-Management-Operations
 │
 ├── agents/
@@ -199,6 +197,7 @@ Agentic-AI-for-Smart-Event-Management-Operations
 ├── .gitignore
 └── README.md
 
+---
 
 📊 Dashboard
 
